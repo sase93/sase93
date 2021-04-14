@@ -1,13 +1,13 @@
 ### Hello! 👋
 
 🔭 I’m currently working on
-Myself
+* Myself
 
 🌱 I’m currently learning
-Full stack development
+* Full stack development
 
 💬 Ask me about
-Drum&bass
+* Drum&bass
 
 ⚡ Fun fact
-ITF taekwon-do student
+* ITF taekwon-do student
