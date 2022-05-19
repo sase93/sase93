@@ -1,4 +1,4 @@
-### How are you doing?
+### Hi!
 
 🌱 Studying
 * Full stack development @ Business College Helsinki 2021-2022
