@@ -1,13 +1,12 @@
 ### How are you doing?
 
-🔭 I’m currently working on
-* Myself
+🌱 Studying
+* Full stack development @ Business College Helsinki 2021-2022
 
-🌱 I’m currently learning
-* Full stack development
+🔭 Working on
+* A React-Native mobile app @ Kyky
 
-💬 Ask me about
+⚡ Stuff I enjoy
+* ITF Taekwon-Do
 * Drum&bass
-
-⚡ Fun fact
-* ITF taekwon-do student
+* Games
