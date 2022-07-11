@@ -1,6 +1,6 @@
 ### Hi!
 
-🌱 Studying
+🌱 Studied
 * Full stack development @ Business College Helsinki 2021-2022
 
 🔭 Working on
