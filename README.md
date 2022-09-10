@@ -10,5 +10,5 @@
 
 ⚡ Stuff I enjoy
 * ITF Taekwon-Do
-* Drum&bass
+* DJing drum&bass
 * Games
